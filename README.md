@@ -1,12 +1,11 @@
 # cp_opensource
 
-**Introduction**
+It is has 2 parts 
+* Leetcode
+* OOPs 
+```
+Leetcode has the good question related to the dsa.
+OOPs has the blog on the OOPs concept in cpp.
+```
 
-Here we will be contributing for the hacktober fest where there will be the questions in the topicwise format.
-The topic can be added in the data structure format.
-
-*  array
-*  linklist
-*  queue
-*  stack
-*  dp
+Will be happy if anyone try to do it in the java
